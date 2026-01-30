@@ -303,7 +303,6 @@ footer{
 ![body-protection](https://github.com/user-attachments/assets/fff748b2-d67d-4d5c-9437-6961581519a6)
 ![ppe-supply](https://github.com/user-attachments/assets/f75ffc05-95c0-45a0-a314-4c79aa23bb82)
 ![ppe-branding](https://github.com/user-attachments/assets/ec939c43-3708-4c2e-b32a-999c05680749)
-<img width="407" height="613" alt="kimoto-ppe-portrait png" src="https://github.com/user-attachments/assets/28f16bf0-d605-45fc-a8fa-4b6929953a2f" />
 ![kimoto-ppe-portrait png](https://github.com/user-attachments/assets/dfd2bc47-fc59-4339-8607-775c30b3c3c5)
 ![helmets](https://github.com/user-attachments/assets/1eaaa873-7771-46e5-b9e8-e88183dc7260)
 ![hearing-protection](https://github.com/user-attachments/assets/c33f81b4-7c78-475d-8796-a408dbaceb39)
