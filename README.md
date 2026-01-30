@@ -1,5 +1,6 @@
 # kimoto-safety-solutions
 Kimoto Safety Solutions website
+
 [index.html](https://github.com/user-attachments/files/24955766/1.html)
 <!DOCTYPE html>
 <html lang="en">
@@ -295,11 +296,7 @@ footer{
 
 </body>
 </html>
-![hand-protection](https://github.com/user-attachments/assets/59feb907-f885-4570-8ab7-d67cb3ae268e)
-![foot-protection jpg](https://github.com/user-attachments/assets/31cf8f49-ad5c-4a3f-b46f-0e919f8bff60)
-![foot-protection](https://github.com/user-attachments/assets/b9076751-f103-41f2-bd36-2e876e43d932)
-![eye-protection](https://github.com/user-attachments/assets/abc53786-dff8-468f-8064-18d449f807d0)
-![bulk-supply](https://github.com/user-attachments/assets/bb6ea0f3-167b-4fbf-ae82-f82c5ebd4c9c)
+
 ![body-protection](https://github.com/user-attachments/assets/fff748b2-d67d-4d5c-9437-6961581519a6)
 ![ppe-supply](https://github.com/user-attachments/assets/f75ffc05-95c0-45a0-a314-4c79aa23bb82)
 ![ppe-branding](https://github.com/user-attachments/assets/ec939c43-3708-4c2e-b32a-999c05680749)
