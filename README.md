@@ -1,7 +1,12 @@
 # kimoto-safety-solutions
 Kimoto Safety Solutions website
-
-[index.html](https://github.com/user-attachments/files/24955766/1.html)
+![hand-protection](https://github.com/user-attachments/assets/ae6d8e8b-6a9b-498d-b56e-cf544fcd569e)
+![foot-protection jpg](https://github.com/user-attachments/assets/528f2061-d37f-4951-ac0b-576a18d1fd70)
+![foot-protection](https://github.com/user-attachments/assets/273caf26-6acb-4ba0-8c8f-e19333f67a58)
+![eye-protection](https://github.com/user-attachments/assets/596f1ff2-b3cf-4831-a68f-ba63c572060a)
+![bulk-supply](https://github.com/user-attachments/assets/3c967ee1-1c1f-46cd-9a50-d85b6b1b0e72)
+![body-protection](https://github.com/user-attachments/assets/df816974-aa61-4a4a-bb40-151d557ee6ac)
+[index.html.html](https://github.com/user-attachments/files/24957441/index.html.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -296,11 +301,3 @@ footer{
 
 </body>
 </html>
-
-![body-protection](https://github.com/user-attachments/assets/fff748b2-d67d-4d5c-9437-6961581519a6)
-![ppe-supply](https://github.com/user-attachments/assets/f75ffc05-95c0-45a0-a314-4c79aa23bb82)
-![ppe-branding](https://github.com/user-attachments/assets/ec939c43-3708-4c2e-b32a-999c05680749)
-![kimoto-ppe-portrait png](https://github.com/user-attachments/assets/dfd2bc47-fc59-4339-8607-775c30b3c3c5)
-![helmets](https://github.com/user-attachments/assets/1eaaa873-7771-46e5-b9e8-e88183dc7260)
-![hearing-protection](https://github.com/user-attachments/assets/c33f81b4-7c78-475d-8796-a408dbaceb39)
-![head-protection](https://github.com/user-attachments/assets/ae900a5f-8f98-4bf3-a4cc-62438583861c)
