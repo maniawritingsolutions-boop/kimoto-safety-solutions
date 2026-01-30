@@ -1,6 +1,6 @@
 # kimoto-safety-solutions
 Kimoto Safety Solutions website
-[1.html](https://github.com/user-attachments/files/24955766/1.html)
+[index.html](https://github.com/user-attachments/files/24955766/1.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
